@@ -1,3 +1,0 @@
-#国内Windows无法访问Github的解决办法
-https://iymark.com/computer/windows-hosts-github.html
-
